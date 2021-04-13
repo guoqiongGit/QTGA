@@ -1,20 +1,16 @@
-.. QTGADocs documentation master file, created by
-   sphinx-quickstart on Thu Apr  8 11:54:47 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to QTGADocs's documentation!
+构造大地测量制图软件用户指南
 ====================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   软件概述
+   数据格式说明
+   数据加载
+   数据浏览
+   数据渲染
+   处理工具
+   地图整饰输出
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
